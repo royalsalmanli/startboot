@@ -1,0 +1,131 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+line-height: normal;
+
+}
+.first{
+background-image: url(../img/bg-masthead.jpg);
+background-repeat: no-repeat;   
+background-size: cover;
+background-position: center;
+padding: 20rem;
+text-align: center;
+}
+
+.first h1 {
+font-size:  3.8rem;
+background-attachment: scroll;
+color: aliceblue;
+font-style: normal;
+font-weight: 600;
+margin-bottom: 1.5rem !important;
+}
+
+.first p{
+    font-size: 1.5rem;
+    color: aliceblue;
+    margin-bottom: 1.5rem !important;
+}
+
+.first button{
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 10rem;
+    background-color: #f4623a;
+    color: aliceblue;
+}
+
+.second{
+    background-repeat: no-repeat;   
+background-size: cover;
+background-position: center;
+padding: 20rem;
+text-align: center;
+background-color: #f4623a;
+}
+
+.second h1{
+    font-size:  2.1rem;
+background-attachment: scroll;
+color: aliceblue;
+font-style: normal;
+font-weight: 400;
+margin-bottom: 1.5rem !important;
+}
+
+.second button{
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 10rem;
+    background-color: #faf4f2;
+    color: rgb(0, 1, 2);
+}
+
+.second p{
+    font-size: 1.3rem;
+    color: aliceblue;
+    font-weight: 300;
+    font-style: normal;
+    margin-bottom: 1.5rem !important;
+}
+
+.form{
+    background-repeat: no-repeat;   
+background-size: cover;
+background-position: center;
+padding: 20rem;
+text-align: center;
+}
+
+.form h1{
+    font-size:  2.1rem;
+    background-attachment: scroll;
+    color: rgb(0, 1, 2);
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 1.5rem !important;
+}
+.form p{
+    font-size: 1.0rem;
+    color:  #6c757d !important;
+    font-weight: 300;
+    font-style: normal;
+    margin-bottom: 1.5rem !important;
+}
+.form input{
+    margin-bottom: 1.5rem !important;
+    padding: 1rem 0.75rem;
+   font-weight: 600;
+   
+   border-color: #ff0019;
+    padding-right: calc(5.75em + 5.75rem);
+border-radius: 0.85rem;
+}
+
+.form textarea{
+    margin-bottom: 1.5rem !important;
+    padding: 1rem 0.75rem;
+   font-weight: 600;
+   border-color: #ff0019;
+    padding-right: calc(3.75em + 3.75rem);
+height: 249px;
+width: 648px;
+}
+
+.form button{
+    
+    padding: rem;
+    font-size: 2rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 10rem;
+    background-color: #f4623a;
+    color: aliceblue;
+
+}
